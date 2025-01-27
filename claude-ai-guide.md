@@ -26,7 +26,8 @@ Claude is an AI assistant developed by Anthropic, designed to handle complex wri
 - Assist with research and brainstorming
 - Help with editing and refinement
 
-![Claude AI Interface Placeholder](claude-interface.png)
+![Claude AI Interface Placeholder](https://github.com/user-attachments/assets/c3508ed0-9f9e-4b9e-bee6-d811a89831ec)
+
 
 ## Getting Started
 
@@ -67,6 +68,7 @@ Claude: Here are some potential angles to explore:
 - Rooftop agriculture and building modifications
 - Hydroponic systems for apartment dwellers
 ```
+![image](https://github.com/user-attachments/assets/dd09d46c-cff2-45ab-bd68-27dc1b6e0c0f)
 
 ### 2. Research Assistance
 
